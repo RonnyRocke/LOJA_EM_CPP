@@ -1,4 +1,4 @@
-![Captura de tela de 2024-10-18 03-23-12](https://github.com/user-attachments/assets/0abd54ae-79d4-42ac-b9bb-72cdd0ecf0bb)
+<img src="https://github.com/user-attachments/assets/0abd54ae-79d4-42ac-b9bb-72cdd0ecf0bb" alt="Captura de tela de 2024-10-18 03-23-12" width="500"/>
 
 🌟 Projeto de Estudo C++ - Sistema de Loja 🌟
 🔍 Descrição:
